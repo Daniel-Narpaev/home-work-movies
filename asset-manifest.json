@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/home-work-movies/static/css/main.41dd9326.css",
+    "main.js": "/home-work-movies/static/js/main.70f49bf0.js",
+    "static/js/787.b557a55f.chunk.js": "/home-work-movies/static/js/787.b557a55f.chunk.js",
+    "index.html": "/home-work-movies/index.html",
+    "main.41dd9326.css.map": "/home-work-movies/static/css/main.41dd9326.css.map",
+    "main.70f49bf0.js.map": "/home-work-movies/static/js/main.70f49bf0.js.map",
+    "787.b557a55f.chunk.js.map": "/home-work-movies/static/js/787.b557a55f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41dd9326.css",
+    "static/js/main.70f49bf0.js"
+  ]
+}
